@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
     string reverseWords(string s) {
         stack<string> st;
