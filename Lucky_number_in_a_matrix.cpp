@@ -1,6 +1,4 @@
-#include<iostream>
-#include<vector>
-#include<climits>
+#include<bits/stdc++.h>
 using namespace std;
 
 class Solution {
