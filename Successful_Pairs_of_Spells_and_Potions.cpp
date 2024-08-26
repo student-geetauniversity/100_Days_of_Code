@@ -2,7 +2,7 @@
 using namespace std;
 
 vector<int> successfulPairs(const vector<int>& spells, const vector<int>& potions, long long success) {
-    vector<int> sorted_potions = potions;
+    vector<int> sorted_potions = potions; 
     sort(sorted_potions.begin(), sorted_potions.end());
     
     vector<int> result;
